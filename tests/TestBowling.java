@@ -5,8 +5,10 @@ import org.junit.Test;
 public class TestBowling {
 
 	@Test
-	public void test() {
-		fail("Not yet implemented");
+	public void isStrike() {
+		Frame fr = new Frame(10,0);
+		boolean provera = true;
+		assertEquals("Greska", false, provera);
 	}
-
+		
 }
