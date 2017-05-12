@@ -21,3 +21,18 @@ EditAction 1494583849025 TestBowling.java 367 2 6 2
 UnitTestCaseAction 1494583854434 TestBowling.java OK
 UnitTestSessionAction 1494583854435 TestBowling.java OK
 EditAction 1494584013466 Frame.java 860 6 10 0
+CompilationAction 1494584016750 Frame.java
+RefactoringAction 1494584027164 Frame.java RENAME score()=><initializer /1> null
+CompilationAction 1494584034760 Frame.java
+UnitTestCaseAction 1494584037340 TestBowling.java OK
+UnitTestSessionAction 1494584037343 TestBowling.java OK
+RefactoringAction 1494584055962 Frame.java ADD returns the FIELD
+RefactoringAction 1494584055966 Frame.java ADD score of FIELD
+RefactoringAction 1494584055967 Frame.java ADD a single FIELD
+RefactoringAction 1494584055967 Frame.java ADD int score() METHOD
+RefactoringAction 1494584068049 Frame.java REMOVE of FIELD
+RefactoringAction 1494584068050 Frame.java REMOVE single FIELD
+RefactoringAction 1494584068052 Frame.java REMOVE score() METHOD
+RefactoringAction 1494584068053 Frame.java REMOVE the FIELD
+RefactoringAction 1494584076614 Frame.java ADD to be FIELD
+EditAction 1494584107936 Frame.java 878 6 11 0
