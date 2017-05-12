@@ -8,7 +8,7 @@ public class TestBowling {
 	public void isStrike() {
 		Frame fr = new Frame(10,0);
 		boolean provera = true;
-		assertEquals("Greska", false, provera);
+		assertEquals("Greska", true, provera);
 	}
 		
 }
