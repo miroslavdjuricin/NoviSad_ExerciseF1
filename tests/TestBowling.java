@@ -15,5 +15,9 @@ public class TestBowling {
 		boolean provera = true;
 		assertEquals("Greska", true, provera);
 	}
-		
+		public void single_frame_score(){
+			Frame fr = new Frame(2,4);
+			boolean provera = true;
+			assertEquals("Greska", true, provera);
+		}
 }

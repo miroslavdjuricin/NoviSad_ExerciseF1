@@ -36,3 +36,8 @@ RefactoringAction 1494584068052 Frame.java REMOVE score() METHOD
 RefactoringAction 1494584068053 Frame.java REMOVE the FIELD
 RefactoringAction 1494584076614 Frame.java ADD to be FIELD
 EditAction 1494584107936 Frame.java 878 6 11 0
+RefactoringAction 1494584143276 TestBowling.java ADD void one FIELD
+RefactoringAction 1494584146800 TestBowling.java RENAME one=>void one_frame_score FIELD
+RefactoringAction 1494584156821 TestBowling.java RENAME one_frame_score=>void single_frame_score FIELD
+RefactoringAction 1494584162344 TestBowling.java RENAME single_frame_score=>void single_frame_score() METHOD
+EditAction 1494584311098 TestBowling.java 507 3 9 3
