@@ -18,3 +18,6 @@ RefactoringAction 1494583799650 TestBowling.java ADD void is FIELD
 RefactoringAction 1494583801168 TestBowling.java RENAME is=>void isSpare FIELD
 RefactoringAction 1494583808696 TestBowling.java RENAME isSpare=>void isSpare() METHOD
 EditAction 1494583849025 TestBowling.java 367 2 6 2
+UnitTestCaseAction 1494583854434 TestBowling.java OK
+UnitTestSessionAction 1494583854435 TestBowling.java OK
+EditAction 1494584013466 Frame.java 860 6 10 0
